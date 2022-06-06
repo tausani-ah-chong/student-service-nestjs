@@ -1,6 +1,6 @@
-Practice creating a basic backend micro-service with NestJS.
+## Practice creating a basic backend micro-service with NestJS.
 
-Other technologies:
+Tech used:
 
 - AWS
 - Docker
